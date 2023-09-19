@@ -31,9 +31,9 @@ export default defineCypressConfig({
     grepFilterSpecs: true,
     grepTags: '@serverless --@brokenInServerless --@ignoreInServerless',
   },
-// reporter: '../../../node_modules/@reportportal/agent-js-cypress',
+  // reporter: '../../../node_modules/@reportportal/agent-js-cypress',
   // reporterOptions: {
-  //   skippedIssue: false, 
+  //   skippedIssue: false,
   //   reportHooks: true,
   //   endpoint: 'http://35.226.254.46:8080/api/v1',
   //   apiKey: 'cypress_sDKI0yGASf-XQNuR99wkTzchcF4GW7TREjIKTqBiaITLGUbEVNDlD3_Oybwj7Mur',
